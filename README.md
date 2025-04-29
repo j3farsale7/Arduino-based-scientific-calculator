@@ -1,4 +1,4 @@
-# Arduino Scientific Calculator with Memory Functions 🧮
+# Arduino Scientific Calculator 🧮
 
 A scientific calculator built on the **Arduino Uno** platform using a **6x6 keypad**, a **16x2 LCD**, and custom input parsing logic.
 
