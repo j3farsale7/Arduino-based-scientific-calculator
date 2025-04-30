@@ -71,8 +71,15 @@ We can discuss:
 ## 📁 Repository Structure
 ├── LICENSE
 ├── README.md
-├── calculator.ino # Main Arduino sketch
+├── src/
+│ └── Calculator V1.ino # Main Arduino sketch
+│ └── Calculator V2.ino
+│ └── Keypad_Library.zip
 ├── docs/
-│ └── Project.pdf # Original project report
-└── diagrams/
-└── proteus_schematic.dsn # Simulation schematic
+│ └── Project Presentation.pdf # Original project report
+│ └── Main Project.png
+│ └── Simulation Capture.mp4
+│ └── Factorial.png
+└── Proteus 8.15 project files/
+│ └── Arduino Sceintific Calculator V1.pdsprj # Simulation schematic and file
+│ └── Arduino Sceintific Calculator V2.pdsprj
